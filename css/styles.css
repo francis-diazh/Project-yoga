@@ -442,6 +442,17 @@ header .navigation a:hover:before {
   transform: scale(1.3);
   color: #11101b;
 }
+.carousel-movedown{
+  margin-top: 10em;
+}
+.h4{
+  font-family: "Bacasime Antique", serif;
+  margin-top: 4em;
+  font-size: 2em;
+  letter-spacing: 10px;
+  font-style:italic;
+}
+ 
 /* Preguntas */
 .backg {
   background-image: linear-gradient(
